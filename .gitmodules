@@ -1,0 +1,3 @@
+[submodule "/Users/doowon/IdeaProjects/demo/src/main/resources/config"]
+	path = /Users/doowon/IdeaProjects/demo/src/main/resources/config
+	url = https://github.com/ParkDooWon/secret-module
